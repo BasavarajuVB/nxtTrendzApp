@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.cart-summary-container {
+  display: flex;
+  flex-direction: column;
+}
+.cat-price-heading {
+  font-family: 'Roboto';
+  color: #616e7c;
+  font-weight: 500;
+  font-size: 18px;
+  margin-bottom: 0;
+}
+.cart-summary-count {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
+.check-out-button {
+  background-color: #0b69ff;
+  height: 30px;
+  color: #ffffff;
+  font-size: 10px;
+
+  outline: none;
+  border: 0;
+  border-radius: 3px;
+}
+.summary-price {
+  color: #171f46;
+  font-weight: bold;
+  font-size: 20px;
+}
